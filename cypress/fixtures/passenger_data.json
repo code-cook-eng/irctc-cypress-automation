@@ -1,13 +1,13 @@
 {
-  "TRAIN_NO": "12559",
-  "TRAIN_COACH": "SL",
-  "TRAVEL_DATE": "18/05/2024",
-  "SOURCE_STATION": "BSBS",
+  "TRAIN_NO": "12344",
+  "TRAIN_COACH": "3A",
+  "TRAVEL_DATE": "21/05/2024",
+  "SOURCE_STATION": "JPG",
   "BOARDING_STATION": null,
-  "DESTINATION_STATION": "NDLS",
-  "TATKAL": false,
+  "DESTINATION_STATION": "SDAH",
+  "TATKAL": true,
   "PREMIUM_TATKAL": false,
-  "UPI_ID_CONFIG": "",
+  "UPI_ID_CONFIG": "8902121059@upi",
   "PASSENGER_DETAILS": [
     {
       "NAME": "Sourabh Sarkar",
